@@ -1,5 +1,3 @@
-# API-BookStore
-
 1. Introduction
 
 API automation ensures that RESTful APIs function correctly by validating status codes, response payloads, headers, and error handling. This project automates the Bookstore API using Rest Assured, TestNG, and Maven, ensuring comprehensive test coverage.
@@ -215,9 +213,4 @@ Dependency Issues:
 
 2.Run mvn clean install to refresh dependencies.
 
-Final Steps
-	1.	Commit & Push to GitHub
 
-git add .
-git commit -m "Added API automation framework"
-git push origin main
